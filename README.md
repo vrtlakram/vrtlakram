@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vrtlakram
+👋 Hi, I’m @vrtlakram
 
 <!---
 vrtlakram/vrtlakram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
